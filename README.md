@@ -5,7 +5,6 @@
 - I'm a Master of Computer and Software Engineer on COPPE/UFRJ
 - I'm Graduate Computer Scientist on UFRRJ
 - I'm lead data scientist in a brazilian fintech
-- I’m love to learn new skills
 
 ### Connect with me:
 
