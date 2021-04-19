@@ -1,6 +1,6 @@
 ### Michel Arruda - [Lead Data Scientist]
 
-# I am a computer scientist who loves to study and work with data.
+#### I am a computer scientist who loves to study and work with data.
 
 - I'm a Master of Computer and Software Engineer on COPPE/UFRJ
 - I'm Graduate Computer Scientist on UFRRJ
