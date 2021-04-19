@@ -1,4 +1,4 @@
-### Michel Arruda - [Lead Data Scientist]
+### Michel Arruda - Lead Data Scientist
 
 #### I am a computer scientist who loves to study and work with data.
 
@@ -11,7 +11,7 @@
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://linkedin.com/in/arrudamichel)
 
-[<img align="left" alt="arruda_michel | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" />](linkedin.com/in/arrudamichel)
+[<img align="left" alt="arruda_michel | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" />](https://instagram.com/arruda_michel)
 
 <br />
 
