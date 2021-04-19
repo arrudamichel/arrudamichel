@@ -1,16 +1,20 @@
-### Hi there 👋
+### Michel Arruda - [Lead Data Scientist]
 
-<!--
-**arrudamichel/arrudamichel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I am a computer scientist who loves to study and work with data.
 
-Here are some ideas to get you started:
+- I'm a Master of Computer and Software Engineer on COPPE/UFRJ
+- I'm Graduate Computer Scientist on UFRRJ
+- I'm lead data scientist in a brazilian fintech
+- I’m love to learn new skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://linkedin.com/in/arrudamichel)
+
+[<img align="left" alt="arruda_michel | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" />](linkedin.com/in/arrudamichel)
+
+<br />
+
+---
+[linkedin]: linkedin.com/in/arrudamichel
+[instagram]: https://instagram.com/arruda_michel
