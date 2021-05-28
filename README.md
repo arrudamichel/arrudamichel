@@ -2,9 +2,9 @@
 
 #### I am a computer scientist who loves to study and work with data.
 
+- I'm lead data scientist in a brazilian fintech
 - I'm a Master of Computer and Software Engineer on COPPE/UFRJ
 - I'm Graduate Computer Scientist on UFRRJ
-- I'm lead data scientist in a brazilian fintech
 
 ### Connect with me:
 
