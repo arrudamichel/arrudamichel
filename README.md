@@ -1,4 +1,4 @@
-### Michel Arruda - Lead Data Scientist
+### Michel Arruda - Data Scientist
 
 #### I am a computer scientist who loves to study and work with data.
 
