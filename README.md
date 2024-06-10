@@ -1,4 +1,4 @@
-### Michel Arruda - Data Scientist
+### Michel Arruda - Data Scientist | Machine Learning Engineer
 
 #### I am a computer scientist who loves to study and work with data.
 
