@@ -6,6 +6,16 @@
 - I'm a Master of Computer and Software Engineer on COPPE/UFRJ
 - I'm Graduate Computer Scientist on UFRRJ
 
+### Projects:
+
+- LLM - Spiritism Chat
+  
+It's a project to chat about Spiritism and learn a few more about the doctrine.
+It's created using Python and Langchain, where it's loaded Allan Kardec's books to make a context for the model.
+Besides that, It has an API to connect the webpage and the model.
+
+Link: https://github.com/arrudamichel/spiritism-chat
+
 ### Connect with me:
 
 [<img align="left"  width="22px" src="logo-linkedin.png" />](https://linkedin.com/in/arrudamichel)
