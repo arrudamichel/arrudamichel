@@ -1,8 +1,24 @@
 ### Michel Arruda - Data Scientist | Machine Learning Engineer
 
-#### I am a computer scientist who loves to study and work with data.
+Data Scientist and Machine Learning Engineer with 8 years of experience in building, deploying, and optimizing predictive models and intelligent systems. Specialized in machine learning, deep learning, data engineering, and MLOps, with strong expertise in Python, Sklearn, PyTorch, and SQL.
 
-- I'm data scientist.
+### Key Skills:
+
+- Development and optimization of predictive models (Regression and Classification)
+- Feature engineering and large-scale data preparation
+- Implementation of machine learning pipelines in production (MLOps, CI/CD)
+- Database architecture and optimization (SQL, NoSQL)
+- Large-scale data processing and analysis (Spark, Pandas, Dask)
+- APIs for machine learning models (FastAPI, Flask, Docker)
+- Integration of models into enterprise systems
+- Cloud deployment (AWS, Azure)
+- Collaboration with product and engineering teams for data-driven solutions
+- Interests and Recent Studies:
+- Application of NLP techniques using LLM Models, prompt engineering, LangChain, and LangGraph
+- Computer vision and reinforcement learning with PyTorch
+
+### Education:
+
 - I'm a Master of Computer and Software Engineer on COPPE/UFRJ
 - I'm Graduate Computer Scientist on UFRRJ
 
