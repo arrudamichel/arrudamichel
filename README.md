@@ -34,6 +34,14 @@ My Repository: https://github.com/arrudamichel/spiritism-chat
 
 ### Courses 
 
+- Domine LLMs com LangChain
+
+This course explores Generative AI with LLMs, combining LangChain and Python to build AI applications like custom chatbots and virtual assistants. It works with models like ChatGPT, Llama, and Phi, using techniques such as RAG and embeddings. Practical projects include document interaction, video summarization, and intuitive interfaces with Streamlit. 
+
+Course link: https://www.udemy.com/course/domine-llms-com-langchain
+
+My Repository: https://github.com/arrudamichel/course__domine_llms_com_langchain
+
 - Deep Learning de A a Z com PyTorch e Python
 
 Deep Learning is a field focused on applying artificial neural networks to solve complex problems that require advanced computational techniques. This course provides both theoretical and hands-on experience with state-of-the-art Deep Learning methods using the PyTorch library in Python. It teaches to build artificial neural networks for real-world applications, including image classification, stock price prediction, and automatic image generation. The course covers key topics such as convolutional neural networks, recurrent neural networks, autoencoders, generative adversarial networks, transfer learning, and style transfer. Designed for all levels, it includes fundamental lessons for beginners and practical projects to reinforce learning. 
