@@ -22,6 +22,7 @@ Data Scientist and Machine Learning Engineer with 8 years of experience in build
 - I'm a Master of Computer and Software Engineer on COPPE/UFRJ
 - I'm Graduate Computer Scientist on UFRRJ
 
+---
 ### Projects:
 
 - LLM - Spiritism Chat
@@ -32,6 +33,7 @@ Besides that, It has an API to connect the webpage and the model.
 
 My Repository: https://github.com/arrudamichel/spiritism-chat
 
+---
 ### Courses 
 
 - Domine LLMs com LangChain
