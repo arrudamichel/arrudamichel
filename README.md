@@ -33,6 +33,17 @@ Besides that, It has an API to connect the webpage and the model.
 
 My Repository: https://github.com/arrudamichel/spiritism-chat
 
+- Sales Forecasting and Discount Analysis
+  
+Analysis of sales and discounts across 45 stores (Feb 2010 – Oct 2012).
+Key goals: 
+  - Forecast department-level sales for the next year, 
+  - Recommend high-impact business actions based on insights
+  - Model discount effects during holiday weeks
+  - Provide a sales forecast API for the next 4 weeks
+
+My Repository: https://github.com/arrudamichel/ds_challenge_ml
+
 ---
 ### Courses 
 
