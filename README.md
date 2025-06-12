@@ -62,7 +62,7 @@ Data Scientist and Machine Learning Engineer with 8 years of experience in build
 
 - LLM - Spiritism Chat
 
-  2025 · Personal Project
+  2024 · Personal Project
   
   Built a conversational AI to discuss and explore the Spiritist doctrine, based on the works of Allan Kardec. The system uses Python and LangChain, loading Kardec's texts to provide contextual, doctrine-based responses.
   
