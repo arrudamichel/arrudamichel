@@ -70,7 +70,7 @@ Data Scientist and Machine Learning Engineer with 8 years of experience in build
 
   Tech Focus: LLMs · LangChain · RAG · Python · API Development · Streamlit
   
-  [🔗 GitHub Repository](https://github.com/arrudamichel/spiritism-chat)
+  [🔗 GitHub Repository](https://github.com/arrudamichel/project__spiritism_chat)
 
 - A tool for analyzing patterns in hashtags on Twitter
 
