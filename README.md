@@ -42,7 +42,7 @@ Data Scientist and Machine Learning Engineer with 8 years of experience in build
   
   [🔗 GitHub Repository](https://github.com/arrudamichel/ds_challenge_ml)
 
-  [Presentation](https://github.com/arrudamichel/project__lead_monthly_sales_predict/blob/master/monthly%20sales%20model%20presentation.pdf)
+  [Presentation](https://github.com/arrudamichel/ds_challenge_ml/blob/master/Challenge%20ML%20-%20Michel%20Arruda.pdf)
 
 - Monthly Sales Prediction Model
 
@@ -58,7 +58,7 @@ Data Scientist and Machine Learning Engineer with 8 years of experience in build
 
   [🔗 GitHub Repository](https://github.com/arrudamichel/project__lead_monthly_sales_predict)
   
-  Presentation: [Monthly Sales Model Presentation](https://github.com/arrudamichel/project__lead_monthly_sales_predict/blob/master/monthly%20sales%20model%20presentation.pdf)
+  [Presentation](https://github.com/arrudamichel/project__lead_monthly_sales_predict/blob/master/monthly%20sales%20model%20presentation.pdf)
 
 - LLM - Spiritism Chat
 
@@ -70,8 +70,6 @@ Data Scientist and Machine Learning Engineer with 8 years of experience in build
 
   Tech Focus: LLMs · LangChain · RAG · Python · API Development · Streamlit
   
-  My Repository: https://github.com/arrudamichel/spiritism-chat
-
   [🔗 GitHub Repository](https://github.com/arrudamichel/spiritism-chat)
 
 - A tool for analyzing patterns in hashtags on Twitter
