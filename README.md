@@ -27,29 +27,52 @@ Data Scientist and Machine Learning Engineer with 8 years of experience in build
 ### Projects:
 
 - Sales Forecasting and Discount Analysis
+
+  2025 · Data Science Challenge
   
-  Analysis of sales and discounts across 45 stores (Feb 2010 – Oct 2012).
+  Analyzed historical sales and discount patterns across 45 stores (Feb 2010 – Oct 2012). The project focused on delivering accurate forecasts and actionable insights for business strategy.
+  
   Key goals: 
     - Forecast department-level sales for the next year, 
     - Recommend high-impact business actions based on insights
     - Model discount effects during holiday weeks
     - Provide a sales forecast API for the next 4 weeks
+  
+  Tech Focus:  Regression Models · Data Analysis · Scikit-Learn · API Deployment
+  
+  [🔗 GitHub Repository](https://github.com/arrudamichel/ds_challenge_ml)
 
-  My Repository: https://github.com/arrudamichel/ds_challenge_ml
+  [Presentation](https://github.com/arrudamichel/project__lead_monthly_sales_predict/blob/master/monthly%20sales%20model%20presentation.pdf)
 
 - Monthly Sales Prediction Model
 
-  It's a project to make a Monthly Sales prediction model for new leads.
+  2025 · Data Science Project
 
-  My Repository: https://github.com/arrudamichel/project__lead_monthly_sales_predict
+  Developed a machine learning model to predict monthly sales for new leads, using features such as average real visits, followers, and estimated sales by domain. The project involved feature engineering, model selection, and evaluation.
+  
+  The best-performing model was a Decision Tree, achieving an R² score of 0.78 and capturing key sales patterns relevant to business decisions.
+
+  Role: Data Scientist
+  
+  Tech Focus: Regression Models · Feature Engineering · Scikit-Learn
+
+  [🔗 GitHub Repository](https://github.com/arrudamichel/project__lead_monthly_sales_predict)
+  
+  Presentation: [Monthly Sales Model Presentation](https://github.com/arrudamichel/project__lead_monthly_sales_predict/blob/master/monthly%20sales%20model%20presentation.pdf)
 
 - LLM - Spiritism Chat
-  
-  It's a project to chat about Spiritism and learn a few more about the doctrine.
-  It's created using Python and Langchain, where it's loaded Allan Kardec's books to make a context for the model.
-  Besides that, It has an API to connect the webpage and the model.
 
+  2025 · Personal Project
+  
+  Built a conversational AI to discuss and explore the Spiritist doctrine, based on the works of Allan Kardec. The system uses Python and LangChain, loading Kardec's texts to provide contextual, doctrine-based responses.
+  
+  An API was also developed to integrate the model with a web interface (Streamlit), enabling real-time interactions.
+
+  Tech Focus: LLMs · LangChain · RAG · Python · API Development · Streamlit
+  
   My Repository: https://github.com/arrudamichel/spiritism-chat
+
+  [🔗 GitHub Repository](https://github.com/arrudamichel/spiritism-chat)
 
 - A tool for analyzing patterns in hashtags on Twitter
 
@@ -58,12 +81,10 @@ Data Scientist and Machine Learning Engineer with 8 years of experience in build
   Developed a data mining tool to identify patterns in Twitter hashtags, addressing the lack of analytical tools for large-scale social media data. The system extracts, processes, and visualizes insights using custom workflows.
 
   In a case study with hashtags #foraDilma and #foraCunha, the tool revealed political associations and public sentiment patterns during Brazil’s 2016 political crisis.
-
-  Role: Co-developer
   
-  Tech Focus: Data Mining · Text Processing · Workflow Automation
+  Tech Focus: Data Mining · Text Processing · Data Analysis · KNIME · Workflow Automation
 
-  My Repository: https://github.com/arrudamichel/project__graduate_tcc_twitter_hashtag
+  [🔗 GitHub Repository](https://github.com/arrudamichel/project__graduate_tcc_twitter_hashtag)
 
 ---
 ### Courses 
