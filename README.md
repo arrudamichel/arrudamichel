@@ -60,6 +60,7 @@ Data Scientist and Machine Learning Engineer with 8 years of experience in build
   In a case study with hashtags #foraDilma and #foraCunha, the tool revealed political associations and public sentiment patterns during Brazil’s 2016 political crisis.
 
   Role: Co-developer
+  
   Tech Focus: Data Mining · Text Processing · Workflow Automation
 
   My Repository: https://github.com/arrudamichel/project__graduate_tcc_twitter_hashtag
