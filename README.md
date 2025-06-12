@@ -51,6 +51,19 @@ Data Scientist and Machine Learning Engineer with 8 years of experience in build
 
   My Repository: https://github.com/arrudamichel/spiritism-chat
 
+- A tool for analyzing patterns in hashtags on Twitter
+
+  Feb 2016 · Academic Project · Federal Rural University of Rio de Janeiro
+
+  Developed a data mining tool to identify patterns in Twitter hashtags, addressing the lack of analytical tools for large-scale social media data. The system extracts, processes, and visualizes insights using custom workflows.
+
+  In a case study with hashtags #foraDilma and #foraCunha, the tool revealed political associations and public sentiment patterns during Brazil’s 2016 political crisis.
+
+  Role: Co-developer
+  Tech Focus: Data Mining · Text Processing · Workflow Automation
+
+  My Repository: https://github.com/arrudamichel/project__graduate_tcc_twitter_hashtag
+
 ---
 ### Courses 
 
