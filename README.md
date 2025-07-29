@@ -26,6 +26,30 @@ Data Scientist and Machine Learning Engineer with 8 years of experience in build
 ---
 ### Projects:
 
+  - LLM-Powered API for Document Query and Sentiment Detection
+    
+    2025 · Data Science Challenge (CGU)
+
+    Developed a robust API using FastAPI with three endpoints focused on document question answering (RAG), PDF embedding, and sentiment classification. The architecture is designed for scalability, high performance, and LLM integration.
+
+    Key goals:
+      - Upload and process PDFs to extract embeddings and store them in a vector database
+      - Enable RAG-based answers to user questions using local LLMs
+      - Implement sentiment classification using logprobs from open-source language models
+      - Deploy scalable API architecture using FastAPI, Queues, Kubernetes and Workers
+
+    Architecture Highlights:
+      - API Gateway with OAuth2, JWT, HTTPS encryption and rate limiting
+      - Asynchronous task queue with specialized GPU workers for LLM inference
+      - RAG with LangChain + Llama 3.1 via Ollama, using MiniLM for embeddings
+      - Vector database: ChromaDB
+      - Chunking strategy: RecursiveCharacterTextSplitter
+      
+    Tech Focus: FastAPI · LangChain · Ollama · ChromaDB · LLM · Asynchronous Queues · Vector Search · Kubernetes · Sentiment Analysis · BM25 · API Deployment
+
+    [🔗 GitHub Repository](https://github.com/arrudamichel/project__llm_challenge_CGU)
+
+
 - Sales Forecasting and Discount Analysis
 
   2025 · Data Science Challenge
